@@ -18,7 +18,7 @@ _placeholder for Table of Contents, in hyperlink format to the actual header, fo
 ### My repo collaborators screenshot
 This is a Screenshot of teacher as a collaberator 
 
-<img src="markdownmonstericon.png"
+<img src="Checkpoint 1 - Collaberation.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
