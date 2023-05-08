@@ -1,1 +1,1 @@
-# CSN400-Capostone
+# CSN400-Capstone
