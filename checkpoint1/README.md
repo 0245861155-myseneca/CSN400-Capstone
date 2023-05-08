@@ -1,6 +1,6 @@
 # This is checkpoint 1 
 
-- **COURSE INFORMATION: CSN-400-nbb **
+- **COURSE INFORMATION: CSN-400-NBB **
 - **STUDENT’S NAME: Tyler Kirkwood **
 - **STUDENT'S NUMBER: 024861155 **
 - **GITHUB USER_ID: 024861155-myseneca.ca **
