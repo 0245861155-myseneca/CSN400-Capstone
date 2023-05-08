@@ -1,4 +1,4 @@
-# this is checkpoint 1 
+# This is checkpoint 1 
 
 - **COURSE INFORMATION: CSN-400-nbb **
 - **STUDENT’S NAME: Tyler Kirkwood **
