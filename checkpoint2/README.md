@@ -9,3 +9,7 @@
 
 #PART B
 
+# what is "git log" and "git status"
+
+The "git status" command provides an overview of the current state of files in your working directory and staging area, highlighting which files have been modified, added, or deleted. On the other hand, the "git log" command displays a chronological list of commit history, including commit messages, authorship, dates, and unique identifiers for each commit.
+
