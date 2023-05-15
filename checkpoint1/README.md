@@ -10,7 +10,7 @@
 _placeholder for Table of Contents, in hyperlink format to the actual header, follow the example below_
 1.  [my repo collaborators screenshot](#my-repo-collaborators-screenshot)
 2.  single line code snippet
-3.  multi line code snippet (preferably bash script"
+3.  multi line code snippet "preferably bash script"
 4.  sample json objects
 5.  sample table
 6.  sample hyperlink
