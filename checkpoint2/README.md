@@ -7,3 +7,5 @@
 - **GITHUB USER ID: 0245861155-myseneca**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
+#PART B
+
