@@ -1,5 +1,16 @@
 # Checkpoint2 Submission
 
+[`checkpoint 2`](https://github.com/0245861155-myseneca/CSN400-Capstone/tree/main/checkpoint2 "Checkpoint 2 github")
+
+# Table of contents 
+
+1. [Part A - Class information ]
+2. [Part B - results of Git Status and Git Log]
+3. [part C - ]
+
+
+
+# Part A 
 
 - **COURSE INFORMATION: CSN 400 NBB**
 - **STUDENT’S NAME: Tyler Kirkwood**
@@ -7,17 +18,24 @@
 - **GITHUB USER ID: 0245861155-myseneca**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
+# Table of contents 
+
+1. `[Part A - Class information ]`
+2. `[Part B - results of Git Status and Git Log]`
+3. `[part C - creating and Merging branches]`
+4. `[part D - Git Branching questions]`
+
 # PART B
 
-## what is "git log" and "git status"
+## what is `git log` and `git status`
 
-## The "git status" command provides an overview of the current state of files in your working directory and staging area, highlighting which files have been modified, added, or deleted. On the other hand, the "git log" command displays a chronological list of commit history, including commit messages, authorship, dates, and unique identifiers for each commit.
+## The `git status` command provides an overview of the current state of files in your working directory and staging area, highlighting which files have been modified, added, or deleted. On the other hand, the `git log` command displays a chronological list of commit history, including commit messages, authorship, dates, and unique identifiers for each commit.
 
 # part C
 
 ## Footnotes Folder created
 
-## results of git 'log -n 5'
+## results of git `log -n 5`
 
 ```bash
 
@@ -58,17 +76,17 @@ tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpo
 ``` 
 # part D
 
-### 1. What are the differences between develop branch and main branch?
+### `1.` What are the differences between develop branch and main branch?
 
-#### A. The main branch is considered to be the primary branch where code is branched off from and merged to anything in the main branch is deployable. The develop branch is a stable branch for developers. It’s where new features, functions, and major changes are worked on in separate feature branches. These feature branches are created from the develop branch and then merged back into it once the work is completed.
+#### `A.` The main branch is considered to be the primary branch where code is branched off from and merged to anything in the main branch is deployable. The develop branch is a stable branch for developers. It’s where new features, functions, and major changes are worked on in separate feature branches. These feature branches are created from the develop branch and then merged back into it once the work is completed.
 
-### 2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
+### `2.` What are the three supporting branches? Briefly describe the function of each of these supporting branches.
 
-#### A. 'Feature' branches are used for devopling new features or major changes
-#### A. 'Release'  branches are created when enough features have accumulated or the next release time frame comes near
-#### A. 'Hotfix' branches are use to quicly repair major problems found after the release
+#### `A.` `Feature` branches are used for devopling new features or major changes
+#### `A.` `Release`  branches are created when enough features have accumulated or the next release time frame comes near
+#### `A.` `Hotfix` branches are use to quicly repair major problems found after the release
 
-### 3. What are the best practices in working with release branches?
+### `3.` What are the best practices in working with release branches?
 
-#### A. Some best practices for release branches include creating them close to the actual release, applying changes to both the release and main branches, and merging changes from earlier versions. Release branching is important for supporting versioned software and changes in earlier versions may need to be merged to later release branches.
+#### `A.` Some best practices for release branches include creating them close to the actual release, applying changes to both the release and main branches, and merging changes from earlier versions. Release branching is important for supporting versioned software and changes in earlier versions may need to be merged to later release branches.
 
