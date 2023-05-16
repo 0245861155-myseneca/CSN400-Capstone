@@ -2,14 +2,6 @@
 
 [`checkpoint 2`](https://github.com/0245861155-myseneca/CSN400-Capstone/tree/main/checkpoint2 "Checkpoint 2 github")
 
-# Table of contents 
-
-1. [Part A - Class information ]
-2. [Part B - results of Git Status and Git Log]
-3. [part C - ]
-
-
-
 # Part A 
 
 - **COURSE INFORMATION: CSN 400 NBB**
