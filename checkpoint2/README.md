@@ -9,15 +9,16 @@
 
 #PART B
 
-# what is "git log" and "git status"
+## what is "git log" and "git status"
 
-# The "git status" command provides an overview of the current state of files in your working directory and staging area, highlighting which files have been modified, added, or deleted. On the other hand, the "git log" command displays a chronological list of commit history, including commit messages, authorship, dates, and unique identifiers for each commit.
+## The "git status" command provides an overview of the current state of files in your working directory and staging area, highlighting which files have been modified, added, or deleted. On the other hand, the "git log" command displays a chronological list of commit history, including commit messages, authorship, dates, and unique identifiers for each commit.
 
 # part C
 
-# Footnotes Folder created
+## Footnotes Folder created
+## results of git 'log -n 5'
 
-# part D 
+```bash
 
 # tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpoint2 (main)
 $ git log -n 5
@@ -52,3 +53,7 @@ Date:   Mon May 15 10:31:55 2023 -0400
     Checkpoint 2
 
 tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpoint2 (main)
+
+``` 
+# part D
+
