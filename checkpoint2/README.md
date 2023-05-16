@@ -16,6 +16,7 @@
 # part C
 
 ## Footnotes Folder created
+
 ## results of git 'log -n 5'
 
 ```bash
@@ -66,3 +67,8 @@ tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpo
 #### A. 'Feature' branches are used for devopling new features or major changes
 #### A. 'Release'  branches are created when enough features have accumulated or the next release time frame comes near
 #### A. 'Hotfix' branches are use to quicly repair major problems found after the release
+
+### 3. What are the best practices in working with release branches?
+
+#### A. Some best practices for release branches include creating them close to the actual release, applying changes to both the release and main branches, and merging changes from earlier versions. Release branching is important for supporting versioned software and changes in earlier versions may need to be merged to later release branches.
+
