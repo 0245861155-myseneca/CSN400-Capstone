@@ -63,4 +63,6 @@ tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpo
 
 ### 2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
 
-#### A. 
+#### A. 'Feature' branches are used for devopling new features or major changes
+#### A. 'Release'  branches are created when enough features have accumulated or the next release time frame comes near
+#### A. 'Hotfix' branches are use to quicly repair major problems found after the release
