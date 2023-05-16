@@ -57,3 +57,10 @@ tjkir@TylerK-1 MINGW64 /g/Semester 5/OPS 445 NBB/Sriptes/CSN400-Capstone/checkpo
 ``` 
 # part D
 
+### 1. What are the differences between develop branch and main branch?
+
+#### A. The main branch is considered to be the primary branch where code is branched off from and merged to anything in the main branch is deployable. The develop branch is a stable branch for developers. It’s where new features, functions, and major changes are worked on in separate feature branches. These feature branches are created from the develop branch and then merged back into it once the work is completed.
+
+### 2. What are the three supporting branches? Briefly describe the function of each of these supporting branches.
+
+#### A. 
