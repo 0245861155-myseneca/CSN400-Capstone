@@ -6,6 +6,8 @@
 - **GITHUB USER_ID: 024861155-myseneca.ca**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
+[checkpoint 3](https://github.com/0245861155-myseneca/CSN400-Capstone/tree/main/checkpoint3 "shortcut for checkpoint 3")
+
 ### Table of Contents
 1. [Part A - Manage Conflicts - Overwrite Remote Changes](#header1)
 2. [Part B - Manage Conflicts - Reset Local Commit Head](#header2)
