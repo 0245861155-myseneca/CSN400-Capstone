@@ -1,6 +1,16 @@
 # Checkpoint3 Submission
 
-## Task A
+- **COURSE INFORMATION: CSN400-2234**
+- **STUDENT’S NAME: Tyler Kirkwood**
+- **STUDENT'S NUMBER: 024861155**
+- **GITHUB USER_ID: 024861155-myseneca.ca**
+- **TEACHER’S NAME: Atoosa Nasiri**
+
+### Table of Contents
+1. [Part A - Manage Conflicts - Overwrite Remote Changes](#header1)
+2. [Part B - Manage Conflicts - Reset Local Commit Head](#header2)
+3. [Part C - Manage Conflicts - Merge Editor](#header3)
+4. [Part D - Collaboration - Creating Pull Request](#header4)
 
 [part1-conflict-error.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/checkpoint3/logs/part1-conflict-error.log "part1-conflict-error.log")
 
@@ -26,4 +36,3 @@
 <img src="partD.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     
