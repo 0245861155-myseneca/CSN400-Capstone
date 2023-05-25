@@ -13,6 +13,13 @@
 
 ## Task C
 
+<img src="image.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 [part3-pull-conflict.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/checkpoint3/logs/part3-pull-conflict.log "part3-pull-conflict.log")
 
 [part3-git-status.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/checkpoint3/logs/part3-status.log "part3-git-status.log")
+
+## Task D
+
