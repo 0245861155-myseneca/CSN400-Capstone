@@ -39,3 +39,6 @@
 <img src="Part Cb.png"
      alt="Part Cb"
      style="float: left; margin-right: 10px;" />
+
+
+# Part D
