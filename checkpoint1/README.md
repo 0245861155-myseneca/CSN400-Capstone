@@ -9,22 +9,22 @@
 ### Table of Contents
 _placeholder for Table of Contents, in hyperlink format to the actual header, follow the example below_
 1.  [my repo collaborators screenshot](#my-repo-collaborators-screenshot)
-2.  single line code snippet [go to Single line code snippet](#single-line-code-snippet)
-3.  multi line code snippet "preferably bash script"
-4.  sample json objects
-5.  sample table
-6.  sample hyperlink
+2.  [go to Single line code snippet](#single-line-code-snippet)
+3.  [multi line code snippet "preferably bash script"](#multi-line-code-snippet)
+4.  [sample json objects](#sample-json-object)
+5.  [sample table](#sample-table)
+6.  [hyperlink](#my-sample-hyperlink)
 
 ### My repo collaborators screenshot
 This is a Screenshot of teacher as a collaberator 
 
-<img src="Checkpoint 1 - Collaberation.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
 ### Single line code snippet
-This is this is a powershell command that counts the number of files in 
+
+This is a `powershell` command that counts the number of files in 
 the current Directory of a windows system.
+
+
 `(Get-ChildItem -Recurse | Measure-Object).Count`
 
 ### Multi line code snippet
@@ -80,5 +80,17 @@ This is my sample table
  
 ### my sample hyperlink
 [magic school bus](https://www.google.com "Google's Homepage")
+
+
+### My repo collaborators screenshot
+This is a Screenshot of teacher as a collaberator
+
+
+
+<img src="Checkpoint 1 - Collaberation.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 5px;" />
+
+
 
 ---
