@@ -7,14 +7,22 @@
 - **TEACHER’S NAME: Atoosa Nasiri**
 
 [Checkpoint 4](https://github.com/0245861155-myseneca/CSN400-Capstone/tree/main/checkpoint4 "checkpoint 4")
+### Table of Contents
+[Part A](#part-a)
+
+[part B](#part-b)
+
+[Part C](#part-c)
+
+[part D](#part-d)
+
 
 ## part A
 
 
-
 <img src="part A.png"
      alt="Part A"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
 
 
 
@@ -25,23 +33,18 @@
 
 <img src="part B.png"
      alt="Part B"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
 
 
 ## part C
 
 <img src="part Ca.png"
      alt="Part Ca"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 5px;" />
 
 #
 
 <img src="part Cb.png"
      alt="Part Cb"
-     style="float: left; margin-right: 10px;" />
-
-
-# Part D
-
-
+     style="float: left; margin-right: 5px;" />
 
