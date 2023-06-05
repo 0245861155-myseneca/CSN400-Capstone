@@ -8,15 +8,14 @@
 
 ### Table of Contents
 _placeholder for Table of Contents, in hyperlink format to the actual header, follow the example below_
-1.  [my repo collaborators screenshot](#my-repo-collaborators-screenshot)
-2.  [go to Single line code snippet](#single-line-code-snippet)
-3.  [multi line code snippet "preferably bash script"](#multi-line-code-snippet)
-4.  [sample json objects](#sample-json-object)
-5.  [sample table](#sample-table)
-6.  [hyperlink](#my-sample-hyperlink)
+1.  [go to Single line code snippet](#single-line-code-snippet)
+2.  [multi line code snippet "preferably bash script"](#multi-line-code-snippet)
+3.  [sample json objects](#sample-json-object)
+4.  [sample table](#sample-table)
+5.  [hyperlink](#my-sample-hyperlink)
+6. [my repo collaborators screenshot](#my-repo-collaborators-screenshot_1)
 
-### My repo collaborators screenshot
-This is a Screenshot of teacher as a collaberator 
+
 
 
 ### Single line code snippet
@@ -82,14 +81,13 @@ This is my sample table
 [magic school bus](https://www.google.com "Google's Homepage")
 
 
-### My repo collaborators screenshot
+### My repo collaborators screenshot_1
 This is a Screenshot of teacher as a collaberator
-
 
 
 <img src="Checkpoint 1 - Collaberation.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 5px;" />
+     style="float: left; margin-right: 4px;" />
 
 
 
