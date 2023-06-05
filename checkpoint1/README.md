@@ -9,7 +9,7 @@
 ### Table of Contents
 _placeholder for Table of Contents, in hyperlink format to the actual header, follow the example below_
 1.  [my repo collaborators screenshot](#my-repo-collaborators-screenshot)
-2.  single line code snippet
+2.  single line code snippet [go to Single line code snippet](#single-line-code-snippet)
 3.  multi line code snippet "preferably bash script"
 4.  sample json objects
 5.  sample table
@@ -81,3 +81,4 @@ This is my sample table
 ### my sample hyperlink
 [magic school bus](https://www.google.com "Google's Homepage")
 
+---
