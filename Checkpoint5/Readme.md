@@ -139,7 +139,7 @@ return (
 # part C
 <br />
 
-```
+```docker
 tkirkwood@TylerK-1:/mnt/g/semester_5/CSN 400 NBB$ docker volume inspect todo-db
 [
     {
@@ -170,4 +170,16 @@ mysql> SHOW DATABASES;
 5 rows in set (0.00 sec)
 
 ```
+<br />
 
+```mysql
+
+mysql> dig mysql;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dig mysql' at line 1
+mysql> dig mysql
+    -> select * from todo_items;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dig mysql
+select * from todo_items' at line 1
+mysql>
+
+```
