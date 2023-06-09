@@ -80,4 +80,94 @@ CONTAINER ID   IMAGE             COMMAND                  CREATED          STATU
 ### however I can imagin the difference being the name is different, the container ID would be different because those are nessesary differenence
 <br />
 
-#
+## Question 7: How long did it take to create the image after you updated the code? It is still shorter than the first time you did it, why?
+
+<br />
+
+### it was a shorter image update and shorter time to activate the web page however keep getting the error message below. i think the reason as to why it is still a shorter time is because there is a cached version in the docker desktop that will make the active faster and more efficient. 
+
+<br />
+
+## Question 8: What is the error message you get when you try to run the app container? Embed the error in your submission and explain why do you get this error at all?
+
+<br />
+
+### there is a couple of resons for this error message, one could be the localhost:3000 could be in use from other containers.
+### error message below for web page.
+```
+This page isn’t working
+localhost didn’t send any data.
+
+ERR_EMPTY_RESPONSE
+
+ERR_EMPTY_RESPONSE
+``` 
+
+<br />
+
+## Question 9: Repeat all the step for app update for: `<p className="text-center">What tasks no to do for CSN400 yet! Add one above!</p>` and embed a screenshot of your app in your submission.
+<br />
+
+### keep getting this error
+```
+This page isn’t working
+localhost didn’t send any data.
+
+ERR_EMPTY_RESPONSE
+```
+
+<br />
+
+```
+return (
+        <React.Fragment>
+            <AddItemForm onNewItem={onNewItem} />
+            {items.length === 0 && (
+                <p className="text-center">What tasks no to do for CSN400 yet! Add one above!</p>
+            )}
+```
+
+<br />
+
+# part B 
+
+<img src="./images/part%20B%20play%20with%20Docker.png"
+     alt="Part B"
+     style="float: left; margin-right: 20px;" />
+
+
+# part C
+<br />
+
+```
+tkirkwood@TylerK-1:/mnt/g/semester_5/CSN 400 NBB$ docker volume inspect todo-db
+[
+    {
+        "CreatedAt": "2023-06-09T15:12:29Z",
+        "Driver": "local",
+        "Labels": null,
+        "Mountpoint": "/var/lib/docker/volumes/todo-db/_data",
+        "Name": "todo-db",
+        "Options": null,
+        "Scope": "local"
+    }
+]
+```
+<br />
+
+```mysql 
+
+mysql> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
+| todos              |
++--------------------+
+5 rows in set (0.00 sec)
+
+```
+
