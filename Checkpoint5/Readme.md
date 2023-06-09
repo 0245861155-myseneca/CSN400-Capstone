@@ -63,9 +63,21 @@ Start a build
 
 <br />
 
-##  Question5: The previous question has created a new container with your app running in it. Which port in localhost must be used to reach it?
+##  Question 5: The previous question has created a new container with your app running in it. Which port in localhost must be used to reach it?
 
 ### In the previous question, the container was running the application, and the specified port mapping was -p 1000:3000. Therefore, to reach the application running inside the container, you would need to use localhost:1000 in your web browser or any other client. Port 1000 on the localhost is mapped to port 3000 inside the container, allowing the traffic to be redirected correctly.
 
 <br />
 
+## Question 6: Run `docker ps` and embed the output in your answer. If you have completed previous questions, you should have at least two containers running in your system. What is their difference? Can you explain how and why this was necessary?
+
+```
+CONTAINER ID   IMAGE             COMMAND                  CREATED          STATUS          PORTS                            NAMES
+139955dfc068   getting-started   "/docker-entrypoint.…"   39 seconds ago   Up 38 seconds   80/tcp, 0.0.0.0:1000->3000/tcp   dreamy_tu
+```
+
+### I only have one that is started
+### however I can imagin the difference being the name is different, the container ID would be different because those are nessesary differenence
+<br />
+
+#
