@@ -88,4 +88,13 @@ az network  vnet subnet show --name SN1 --vnet-name router-61 --resource-group S
 <br />
 
 - 6. What is a hob-and-spoc network topology and how be deployed in Azure Cloud?
-- 6a. 
+- 6a. Deploying a hub-and-spoke network topology in Azure Cloud using VNets and virtual network peering provides centralized management, efficient communication, and enhanced security between the hub and spoke networks. It allows you to control network traffic flow and enforce security policies at the hub while maintaining connectivity and isolation between different spoke networks.
+<br />
+
+- 7. In working with Azure VNETs, do you need o to define gateways for Azure to route traffic between subnets?
+- 7a. within a single Azure VNet, you do not need to define gateways for Azure to route traffic between subnets. Azure automatically handles the routing of traffic between subnets within the VNet using the built-in local network gateway. Gateways are typically used for external connectivity, such as connecting Azure VNets to on-premises networks or other external networks.
+
+
+
+- 8.When do you need to configure and use Virtual Network Gateways?
+- 8a. Virtual Network Gateways are used to enable secure connectivity between Azure VNets and on-premises networks, facilitate point-to-site VPN connections, establish ExpressRoute connectivity, enable transit routing between VNets, and support hybrid cloud scenarios. They act as entry points and VPN endpoints, providing secure and reliable communication channels between different networks.
