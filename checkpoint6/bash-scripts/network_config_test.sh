@@ -35,7 +35,6 @@ echo "Student_vnet_address: $Student_vnet_address"
 echo "Router_vnet_address: $Router_vnet_address"
 echo "Server_vnet_address: $Server_vnet_address"
 echo 
-
 echo "---------------------------------------------------"
 echo "Networking - Virtual Networks - Subnets"
 echo

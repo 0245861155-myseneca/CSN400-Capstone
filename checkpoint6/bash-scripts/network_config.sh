@@ -10,7 +10,7 @@ ID="61"          #unique ID assigned to you
 Student_vnet_name="Student-964259-vnet"
 Student_vnet_address="10.18.43.0/24"
 Client_Subnet_name="Virtual-Desktop-Client"
-Client_Subnet_address="10.18.43.0/24
+Client_Subnet_address="10.18.43.0/24"
 # ---------------------------------------------------
 # Networking - Virtual Networks
 Router_vnet_name="Router-$ID"

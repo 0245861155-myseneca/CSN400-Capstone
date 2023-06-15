@@ -1,0 +1,34 @@
+VNET Router-XX
+# Remember to replace ‘XX’ with your Unique ID
+VNET Name:  Router-XX
+IPv4 Address Space:  192.168.XX.0/24
+Subnets:  Create 4
+SN1:  192.168.XX.32/27
+SN2:  192.168.XX.64/27
+SN3:  192.168.XX.96/27
+SN4:  192.168.XX.128/27
+# Leave the Security Option and Tags at their defaults
+VNET Server-XX
+# Remember to replace ‘XX’ with your Unique ID
+VNET Name:  Server-XX
+IPv4 Address Space:  172.17.XX.0/24
+Subnets:  Create 4
+SN1:  172.17..XX.32/27
+SN2:  172.17.XX.64/27
+SN3:  172.17.XX.96/27
+SN4:  172.17.XX.128/27
+# Leave the Security Option and Tags at their defaults
+VNET Peerings
+# Peer the Router Network to the Server Network
+Peering Name:  RouterXX-ServerXX
+Remote Peering Name:  ServerXX-RouterXX
+# Leave all other settings at their defaults
+
+# Peer the Router Network to the Student Network
+Peering Name:  RouterXX-Student??????
+Remote Peering Name:  Student??????-RouterXX
+# Leave all other settings at their defaults
+Route Table
+Route Table Name:  RT-XX
+# Set Propagate Gateway Routes to ‘No’
+# Leave Tags settings at their defaults
