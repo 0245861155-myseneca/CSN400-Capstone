@@ -3,7 +3,10 @@
 - **STUDENT'S NUMBER: 024861155**
 - **GITHUB USER ID: 0245861155-myseneca**
 - **TEACHER’S NAME: Atoosa Nasiri**
-
+### Table of Contents
+[Part A - Creating Network Resources using Azure CLI](#part-a)
+[Part B - Working in Azure CLI Bash](#part-b)
+[Part C - Network Review Questions](#part-c)
 ## Part A
 #### 61 is my unique ID
 ```bash
@@ -93,8 +96,7 @@ az network  vnet subnet show --name SN1 --vnet-name router-61 --resource-group S
 
 - 7. In working with Azure VNETs, do you need o to define gateways for Azure to route traffic between subnets?
 - 7a. within a single Azure VNet, you do not need to define gateways for Azure to route traffic between subnets. Azure automatically handles the routing of traffic between subnets within the VNet using the built-in local network gateway. Gateways are typically used for external connectivity, such as connecting Azure VNets to on-premises networks or other external networks.
-
-
+<br />
 
 - 8.When do you need to configure and use Virtual Network Gateways?
 - 8a. Virtual Network Gateways are used to enable secure connectivity between Azure VNets and on-premises networks, facilitate point-to-site VPN connections, establish ExpressRoute connectivity, enable transit routing between VNets, and support hybrid cloud scenarios. They act as entry points and VPN endpoints, providing secure and reliable communication channels between different networks.
