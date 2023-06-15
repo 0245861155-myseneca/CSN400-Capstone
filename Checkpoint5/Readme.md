@@ -4,6 +4,12 @@
 - **GITHUB USER ID: 0245861155-myseneca**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
+### Table of Contents
+1. [Part A - Containerize an application](#part-a)
+2. [Part B - Share the application](#part-b)
+3. [Part C - Persist the DB](#part-c)
+4. [Part D - Multi container apps](#part-d)
+
 # Part A
 
 ## Question 1: If you run docker build -t getting-started . for a second time, the build time will be different from first time, why? Why the number of steps are also different? Explain  your answers in detail.
@@ -135,6 +141,7 @@ return (
      alt="Part B"
      style="float: left; margin-right: 20px;" />
 
+<br />
 
 # part C
 <br />
@@ -154,6 +161,8 @@ tkirkwood@TylerK-1:/mnt/g/semester_5/CSN 400 NBB$ docker volume inspect todo-db
 ]
 ```
 <br />
+
+# part D
 
 ```mysql 
 
@@ -183,3 +192,5 @@ select * from todo_items' at line 1
 mysql>
 
 ```
+### no idea as to why there is an error. 
+
