@@ -25,5 +25,13 @@ LS-61   STUDENT-RG-964259  canadacentral  1
 WC-61   STUDENT-RG-964259  canadacentral  1
 WS-61   STUDENT-RG-964259  canadacentral  1
 
-
 ```
+
+## Part B
+
+```json
+odl_user [ ~ ]$ az network nic show -g Student-RG-964259 -n lr-61525_z1 --query "enableipforwarding" 
+odl_user [ ~ ]$ 
+```
+
+## Part C
