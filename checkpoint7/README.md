@@ -12,10 +12,8 @@
 ## Part A
 
 ### Answer
-```
+#### The difference between Windows machine NSG and Linux machine NSG rules lies in the protocols and ports used by each operating system. Windows typically uses RDP (port 3389), while Linux uses SSH (port 22). Deleting specific SSH or RDP rules would block remote access using those protocols.
 
-The difference between Windows machine NSG and Linux machine NSG rules lies in the protocols and ports used by each operating system. Windows typically uses RDP (port 3389), while Linux uses SSH (port 22). Deleting specific SSH or RDP rules would block remote access using those protocols.
-```
 
 
 ```
