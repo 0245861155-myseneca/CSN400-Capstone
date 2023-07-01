@@ -83,12 +83,12 @@ odl_user [ ~ ]$
 ## Part E
 | No. | Scope | Chart Type | VIEW Type |  Date Range | Group By | Granularity| Example |
 |-|-|-|-|-|-|-|-|
-|1|Student-RG-xxxxxx| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="./images/daily_resource.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
-|2|Student-RG-xxxxxx| Column (Stacked) | DailyCosts | Last 7 Days | Service | Daily | <img src="./images/daily_service_family.png" alt="Daily Cost Service-Barchart.jpg" style="float: left; margin-right: 10px;" /> |
-|3|Student-RG-xxxxxx| Area| AccumulatedCosts | Last 7 Days | Resource | Accumulated | <img src="./images/accumlated_resources.png" alt="Accumulated Resource Barchart" style="float: left; margin-right: 10px;" /> |
-|4|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Service Name | NA | <img src="./images/pie_chart_product.png" alt="Service Name Piechart" style="float: left; margin-right: 10px;" /> |
-|5|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Service Family | NA | <img src="./images/pie_chart_service_family.jpg" alt="Service Family Piechart" style="float: left; margin-right: 10px;" /> |
-|6|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Product | NA | <img src="./images/pie_chart_service_name.jpg" alt="Product Piechart" style="float: left; margin-right: 10px;" /> |
+|1|Student-RG-964259| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="./images/daily_resource.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
+|2|Student-RG-964259| Column (Stacked) | DailyCosts | Last 7 Days | Service | Daily | <img src="./images/daily_service_family.png" alt="Daily Cost Service-Barchart.jpg" style="float: left; margin-right: 10px;" /> |
+|3|Student-RG-964259| Area| AccumulatedCosts | Last 7 Days | Resource | Accumulated | <img src="./images/accumlated_resources.png" alt="Accumulated Resource Barchart" style="float: left; margin-right: 10px;" /> |
+|4|Student-RG-964259| Pie Chart | NA | Last Month | Service Name | NA | <img src="./images/pie_chart_product.png" alt="Service Name Piechart" style="float: left; margin-right: 10px;" /> |
+|5|Student-RG-964259| Pie Chart | NA | Last Month | Service Family | NA | <img src="./images/pie_chart_service_family.jpg" alt="Service Family Piechart" style="float: left; margin-right: 10px;" /> |
+|6|Student-RG-964259| Pie Chart | NA | Last Month | Product | NA | <img src="./images/pie_chart_service_name.jpg" alt="Product Piechart" style="float: left; margin-right: 10px;" /> |
 
 
 ## Part F
