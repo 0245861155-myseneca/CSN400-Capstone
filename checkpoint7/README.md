@@ -47,7 +47,7 @@ odl_user [ ~ ]$
 2.  command: sudo iptables -L
 3. sudo systemctl enable iptables
 
-#### i keep getting the error below ive use chmod 400 as per azure intruction and this would be the 2nd vm that ive tried.
+#### i keep getting the error below ive used chmod 400 as per azure intruction and this would be the third vitual machine that ive tried.
 ```
 tkirkwood@TylerK-1:/mnt/g/semester_5/CSN 400 NBB/Atoosa$ ssh -i routerkey.pem Tkirkwood@20.151.178.14 -p 22
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -62,4 +62,35 @@ tkirkwood@TylerK-1:/mnt/g/semester_5/CSN 400 NBB/Atoosa$ chmod 400 routerkey
 
 ```
 
-## Part D
+
+
+## part D
+
+```table
+0.0.1 (LR61/lr-61/0.0.1) VM image version Canada Central
+0.0.1 (LS61/LS-61/0.0.1) VM image version Canada Central
+0.0.1 (WC61/WC-61/0.0.1) VM image version Canada Central
+0.0.1 (WS61/WS-61/0.0.1) VM image version Canada Central
+```
+<br>
+
+```
+odl_user [ ~ ]$ az vm list --output table
+
+odl_user [ ~ ]$ 
+
+```
+## Part E
+| No. | Scope | Chart Type | VIEW Type |  Date Range | Group By | Granularity| Example |
+|-|-|-|-|-|-|-|-|
+|1|Student-RG-xxxxxx| Column (Stacked) | DailyCosts | Last 7 Days | Resource | Daily | <img src="./images/daily_resource.png" alt="Daily Cost Barchart" style="float: left; margin-right: 10px;" /> |
+|2|Student-RG-xxxxxx| Column (Stacked) | DailyCosts | Last 7 Days | Service | Daily | <img src="./images/daily_service_family.png" alt="Daily Cost Service-Barchart.jpg" style="float: left; margin-right: 10px;" /> |
+|3|Student-RG-xxxxxx| Area| AccumulatedCosts | Last 7 Days | Resource | Accumulated | <img src="./images/accumlated_resources.png" alt="Accumulated Resource Barchart" style="float: left; margin-right: 10px;" /> |
+|4|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Service Name | NA | <img src="./images/pie_chart_product.png" alt="Service Name Piechart" style="float: left; margin-right: 10px;" /> |
+|5|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Service Family | NA | <img src="./images/pie_chart_service_family.jpg" alt="Service Family Piechart" style="float: left; margin-right: 10px;" /> |
+|6|Student-RG-xxxxxx| Pie Chart | NA | Last Month | Product | NA | <img src="./images/pie_chart_service_name.jpg" alt="Product Piechart" style="float: left; margin-right: 10px;" /> |
+
+
+## Part F
+
+<img src="./images/Azure_Dashboard.png" alt="azure dashboard" style="float: left; margin-right: 10px;" /> 
