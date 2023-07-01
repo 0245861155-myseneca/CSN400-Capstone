@@ -12,9 +12,9 @@
 1. [Part A - Creating & Configuring VMs - Using Portal](#part-a)
 2. [Part B - Basic Connectivity - VM Configuration](#part-b)
 3. [Part C - Enable IP_Forwarding - Using Portal](#part-c)
-4. [Part D - Creating & Configuring VM Images - Using Portal](#header)
-5. [Part E - Azure Cost Analysis Charts](#header)
-6. [Part F - Create Customized Azure Dashboard](#header)
+4. [Part D - Creating & Configuring VM Images - Using Portal](#part-d)
+5. [Part E - Azure Cost Analysis Charts](#part-e)
+6. [Part F - Create Customized Azure Dashboard](#part-f)
 
 ## Part A
 
