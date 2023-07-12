@@ -16,7 +16,7 @@
 3. [part3-pull-conflict.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part3-pull-conflict.log "part3-pull-conflict.log")
 3. [part3-git-status.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part3-status.log "part3-git-status.log")
 4. [merge edit vscode github desktop](#merge-edit)
-4. [Task D pull request form](#pull_request)
+4. [Task D pull request form](#pull-request)
 
 
 ## merge edit 
@@ -25,7 +25,7 @@
      style="float: left; margin-right: 5px;" />
 
 ## pull request
-
+### 
 <img src="partD.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;" />
