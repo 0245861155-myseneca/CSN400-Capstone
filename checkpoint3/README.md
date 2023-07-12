@@ -7,8 +7,8 @@
 - **TEACHER’S NAME: Atoosa Nasiri**
 
 ### Table of Contents
-1. [Part A - Manage Conflicts - Overwrite Remote Changes](#header1)
-2. [Part B - Manage Conflicts - Reset Local Commit Head](#header2)
+1. [Part A - Manage Conflicts - Overwrite Remote Changes](#part-a)
+2. [Part B - Manage Conflicts - Reset Local Commit Head](#part-b)
 3. [Part C - Manage Conflicts - Merge Editor](#merge-edit)
 4. [Part D - Collaboration - Creating Pull Request](#pull-request)
 
