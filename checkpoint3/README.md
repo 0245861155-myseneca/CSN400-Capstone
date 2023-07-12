@@ -6,17 +6,45 @@
 - **GITHUB USER_ID: 024861155-myseneca.ca**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
-[checkpoint 3 shortcut](https://github.com/0245861155-myseneca/CSN400-Capstone/tree/main/checkpoint3 "shortcut for checkpoint 3")
-
 ### Table of Contents
-1. [part1-conflict-error.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part1-conflict-error.log "part1-conflict-error.log")
-1. [part1-conflict-overwrit.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part1-conflict-overwrite.log "part1-conflict-overwrite.log")
-2. [part2-pull-error.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part2-pull-error.log "part2-pull-error.log")
-2. [part2-reset-head.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part2-reset-head.log "part2-reset-head.log")
-3. [part3-pull-conflict.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part3-pull-conflict.log "part3-pull-conflict.log")
-3. [part3-git-status.log](https://github.com/0245861155-myseneca/CSN400-Capstone/blob/main/logs/part3-status.log "part3-git-status.log")
-4. [merge edit vscode github desktop](#merge-edit)
-4. [Task D pull request form](#pull-request)
+1. [Part A - Manage Conflicts - Overwrite Remote Changes](#header1)
+2. [Part B - Manage Conflicts - Reset Local Commit Head](#header2)
+3. [Part C - Manage Conflicts - Merge Editor](#merge-edit)
+4. [Part D - Collaboration - Creating Pull Request](#pull-request)
+
+
+## part A
+```
+Pushing to https://github.com/0245861155-myseneca/CSN400-Capstone.git
+To https://github.com/0245861155-myseneca/CSN400-Capstone.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/0245861155-myseneca/CSN400-Capstone.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+<br>
+
+```
+Pushing to https://github.com/0245861155-myseneca/CSN400-Capstone.git
+To https://github.com/0245861155-myseneca/CSN400-Capstone.git
+ = [up to date]      main -> main
+updating local tracking ref 'refs/remotes/origin/main'
+Everything up-to-date
+```
+## part B
+```
+POST git-upload-pack (196 bytes)
+POST git-upload-pack (983 bytes)
+From https://github.com/0245861155-myseneca/CSN400-Capstone
+   75d42bb..bdbd94b  main         -> origin/main
+ = [up to date]      feat-emojies -> origin/feat-emojies
+Auto-merging checkpoint3/conflict-resolution/index.html
+CONFLICT (content): Merge conflict in checkpoint3/conflict-resolution/index.html
+Automatic merge failed; fix conflicts and then commit the result.
+```
+
 
 
 ## merge edit 
